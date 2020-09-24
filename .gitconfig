@@ -1,0 +1,22 @@
+[user]
+    name = Ashish Malik
+    email = b218008@iiit-bh.ac.in
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+[color "status"]
+    added = green
+    changed = blue
+    untracked = red 
+[color "diff"]
+    meta = yellow
+    old = red 
+    new = green
+[commit]
+    template = ~/.gitmessage
+[core]
+    editor = vim
+[push]
+    followTags = true
+    default = current
