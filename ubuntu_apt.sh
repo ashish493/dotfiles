@@ -29,3 +29,8 @@ install vim
 install numpy
 install pandas
 install matplotlib
+install libpcre3 
+install libpcre3-dev
+install zlib1g 
+install zlib1g-dev 
+install libssl-dev
